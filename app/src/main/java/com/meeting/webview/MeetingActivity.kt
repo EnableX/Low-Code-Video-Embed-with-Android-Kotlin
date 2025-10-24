@@ -41,7 +41,7 @@ class MeetingActivity : AppCompatActivity() {
     private var mCapturedImageURI: Uri? = null
     private var mFilePathCallback: ValueCallback<Array<Uri>>? = null
     private var mCameraPhotoPath: String? = null
-    var roomUrl = "https://meet-qa.yourvideo.live/host/NjIwM2I2NTFjMzIyMTcwMjczYWZhMmQzLTVlNzA3MTg4ZTg2NWRjNWI3MjRiMjhlMg==" // Replace by your own
+    var roomUrl = "" // Replace by your own
     private val roomParameters = "?skipMediaPermissionPrompt"
 
     private val requiredPermissions = arrayOf(
