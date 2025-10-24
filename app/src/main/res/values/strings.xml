@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EnxLowCodeMeeting</string>
+    <string name="premium_room">Premium Room</string>
+    <string name="lite_room">Lite Room</string>
+    <string name="select_rooms">Select Rooms</string>
+    <string-array name="rooms">
+
+        <item>Pankaj Room</item>
+        <item>Kunal Room</item>
+        <item>Chandan Room</item>
+        <item>Amelia Room</item>
+        <item>Nick Room</item>
+
+    </string-array>
+</resources>
